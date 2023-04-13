@@ -1,8 +1,8 @@
 #big-div {
     background-color: rgba(0, 128, 0, .80);
     width: 260px;
-    min-height: 404px;
-    position: relative; top:100px; left: 40%;
+    /* min-height: 404px; */
+    margin: 90px auto 0 auto;
 } 
 
 #first-screen {
